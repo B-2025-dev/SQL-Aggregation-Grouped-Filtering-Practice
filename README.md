@@ -1,6 +1,6 @@
 # SQL-Aggregation-Grouped-Filtering-Practice
 This project demonstrates my understanding of SQL aggregation and grouped data filtering. I created a book database using demo data and applied GROUP BY with SUM and AVG functions. I used the HAVING clause to filter grouped results and AS for readable column aliases, showing structured query writing and logical data analysis skills.
-## 🗄️ Database Structure
+##  Database Structure
 
 The books table contains the following columns:
 
@@ -12,7 +12,7 @@ title – Book title
 
 words – Total word count per book
 
-## 🧠 Key SQL Concepts Demonstrated
+##  Key SQL Concepts Demonstrated
 1️⃣ GROUP BY
 
 Used to group rows by author so that calculations can be performed per author instead of per individual book.
@@ -46,12 +46,12 @@ SUM(words) AS total_words
 
 This makes the output clearer and more professional.
 
-## 📊 Example Queries
+## Example Queries
 
 ✔ Authors with total words greater than 1,000,000
 ✔ Authors with average book length greater than 150,000 words
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 SQL database creation
 
@@ -65,7 +65,7 @@ Logical thinking with data conditions
 
 Clean and readable query writing
 
-## 💡 Why This Project Matters
+##  Why This Project Matters
 
 This project demonstrates foundational SQL knowledge required for:
 
